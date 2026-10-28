@@ -3,9 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-2.2.10-purple.svg" alt="Kotlin" /></a>
-  <a href="https://developer.android.com"><img src="https://img.shields.io/badge/Platform-Android-green.svg" alt="Android" /></a>
-  <a href="https://www.buymeacoffee.com/adityasahu"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-adityasahu-yellow.svg?style=flat&logo=buy-me-a-coffee" alt="Buy Me A Coffee" /></a>
+  <a href="https://github.com/AdityasahuX07/Dim"><img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Platform" /></a>
+  <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
+  <a href="https://developer.android.com/jetpack/compose"><img src="https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" /></a>
+  <a href="https://buymeacoffee.com/adityasahu"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
 </p>
 
 A modern, privacy-focused Android application built with Jetpack Compose for tracking migraines and headaches. Dim helps users log episodes, monitor pain locations, identify triggers, correlate with health metrics, and generate doctor-ready reports.
@@ -71,11 +72,15 @@ A modern, privacy-focused Android application built with Jetpack Compose for tra
    ./gradlew assembleDebug
    ```
 
-## Support
+## ☕ Support
 
-If you find this project helpful, consider supporting its development:
+<p align="center">
+  If you find this project helpful, consider supporting its development:
+</p>
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/adityasahu)
+<p align="center">
+  <a href="https://buymeacoffee.com/adityasahu"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+</p>
 
 ## License
 
