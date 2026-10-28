@@ -82,7 +82,7 @@ If you find this project helpful, consider supporting its development:
 
 <p align="center">
   <a href="https://buymeacoffee.com/adityasahu">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="65">
   </a>
 </p>
 
