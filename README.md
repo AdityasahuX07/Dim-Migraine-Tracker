@@ -1,5 +1,9 @@
 # Dim
 
+[![Kotlin](https://img.shields.io/badge/Kotlin-2.2.10-purple.svg)](https://kotlinlang.org)
+[![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-adityasahu-yellow.svg?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/adityasahu)
+
 A modern, privacy-focused Android application built with Jetpack Compose for tracking migraines and headaches. Dim helps users log episodes, monitor pain locations, identify triggers, correlate with health metrics, and generate doctor-ready reports.
 
 ## Features
@@ -40,6 +44,12 @@ A modern, privacy-focused Android application built with Jetpack Compose for tra
    ```bash
    ./gradlew assembleDebug
    ```
+
+## Support
+
+If you find this project helpful, consider supporting its development:
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/adityasahu)
 
 ## License
 
