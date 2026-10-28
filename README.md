@@ -13,7 +13,7 @@
   <b>Dim</b> is a thoughtful, privacy-first companion crafted to help you effortlessly log, understand, and manage migraine attacks.
 </p>
 
-Built with a **beautiful, modern, and minimal dark UI**, Dim is designed to be gentle on sensitive eyes during painful flare-ups. It makes logging **effortless and quick**—record episodes in a few taps, visually map pain, track triggers and medications, correlate sleep and health data, and export clear reports for your doctor—all kept 100% private on your device.
+Built with a **beautiful, modern, and minimal dark UI**, Dim is designed to be gentle on sensitive eyes during painful flare-ups. It makes logging **effortless and quick**—record episodes in a few taps, visually map pain, track triggers and medications, uncover patterns with **intelligent AI insights**, correlate sleep and health data, and export clear reports for your doctor—all kept 100% private on your device.
 
 ---
 
