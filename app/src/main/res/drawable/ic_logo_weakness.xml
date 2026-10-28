@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Symptom: Weakness. White glyph so it can be tinted (ColorFilter.tint); glyph fills about 20 of 24 dp, like the other ic_logo_* drawables. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:pathData="M17.9,4.38c-0.24,0.39 -0.57,0.72 -0.95,0.96c-0.38,0.23 -0.79,0.36 -1.2,0.38c-0.41,0.02 -0.8,-0.08 -1.13,-0.29c-0.33,-0.21 -0.59,-0.51 -0.76,-0.89c-0.16,-0.37 -0.22,-0.8 -0.18,-1.25c0.05,-0.44 0.2,-0.88 0.45,-1.27c0.24,-0.39 0.57,-0.72 0.95,-0.95c0.37,-0.24 0.79,-0.37 1.2,-0.39c0.41,-0.02 0.8,0.08 1.13,0.29c0.33,0.21 0.59,0.51 0.75,0.89c0.17,0.37 0.23,0.8 0.18,1.25c-0.04,0.44 -0.19,0.88 -0.44,1.27z"
+        android:fillColor="#FFFFFF"/>
+    <path
+        android:pathData="M12.88,5.02c-2.12,1.62 -2.93,4.25 -2.33,7.08"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.24"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <path
+        android:pathData="M10.96,12.1l3.03,4.85l-1.62,5.26"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.22"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <path
+        android:pathData="M10.15,12.1l1.01,5.05l-2.22,5.06"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.22"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <path
+        android:pathData="M13.59,5.63l2.63,4.24l0.6,3.64"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.82"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <path
+        android:pathData="M7.72,5.02q-1.01,2.43 -0.4,5.06"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0.61"
+        android:strokeLineCap="round"/>
+    <path
+        android:pathData="M6.31,6.23q-0.61,1.52 -0.2,3.04"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0.61"
+        android:strokeLineCap="round"/>
+    <path
+        android:pathData="M16.01,17.15q0.81,1.42 -0.2,3.04"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0.61"
+        android:strokeLineCap="round"/>
+    <path
+        android:pathData="M7.72,16.75q-0.81,1.41 0.21,3.03"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0.61"
+        android:strokeLineCap="round"/>
+</vector>

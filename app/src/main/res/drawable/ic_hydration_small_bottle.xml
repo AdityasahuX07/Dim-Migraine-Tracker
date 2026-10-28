@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ic_hydration_small_bottle.xml: Hydration: small bottle. White glyph so it can be tinted (ColorFilter.tint). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+    <group android:translateX="64" android:translateY="64">
+        <group android:translateX="0" android:translateY="45">
+            <group android:scaleX="1.1" android:scaleY="1.1">
+                <path android:pathData="M-5 -70 L-5 -62 C-5 -56 -15 -54 -15 -44 L-15 -8 Q-15 0 -7 0 L7 0 Q15 0 15 -8 L15 -44 C15 -54 5 -56 5 -62 L5 -70 Z"
+                    android:strokeColor="#FFFFFF"
+                    android:strokeWidth="4"
+                    android:strokeLineCap="round"
+                    android:strokeLineJoin="round"/>
+                <path android:pathData="M-4,-82h8a3,3 0 0 1 3,3v3a3,3 0 0 1 -3,3h-8a3,3 0 0 1 -3,-3v-3a3,3 0 0 1 3,-3z"
+                    android:fillColor="#FFFFFF"/>
+                <path android:pathData="M-9.5 -30 L9.5 -30 L9.5 -9 Q9.5 -5.5 6 -5.5 L-6 -5.5 Q-9.5 -5.5 -9.5 -9 Z"
+                    android:fillColor="#FFFFFF"/>
+            </group>
+        </group>
+    </group>
+</vector>

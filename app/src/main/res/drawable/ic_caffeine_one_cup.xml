@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ic_caffeine_one_cup.xml: Caffeine today: one cup. White glyph so it can be tinted (ColorFilter.tint). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+    <group android:translateX="64" android:translateY="64">
+        <group android:scaleX="1.5" android:scaleY="1.5">
+            <group android:translateX="-7" android:translateY="7">
+                <path android:pathData="M-22 -12 L22 -12 L22 14 Q22 26 10 26 L-10 26 Q-22 26 -22 14 Z"
+                    android:fillColor="#FFFFFF"
+                    android:strokeColor="#FFFFFF"
+                    android:strokeWidth="3"
+                    android:strokeLineCap="round"
+                    android:strokeLineJoin="round"/>
+                <path android:pathData="M22 -4 H28 Q36 -4 36 6 Q36 16 28 16 H22"
+                    android:strokeColor="#FFFFFF"
+                    android:strokeWidth="3"
+                    android:strokeLineCap="round"
+                    android:strokeLineJoin="round"/>
+                <path android:pathData="M-7 -19 Q-12 -25 -7 -30 Q-2 -35 -7 -40"
+                    android:strokeColor="#FFFFFF"
+                    android:strokeWidth="3"
+                    android:strokeLineCap="round"
+                    android:strokeLineJoin="round"/>
+                <path android:pathData="M7 -19 Q2 -25 7 -30 Q12 -35 7 -40"
+                    android:strokeColor="#FFFFFF"
+                    android:strokeWidth="3"
+                    android:strokeLineCap="round"
+                    android:strokeLineJoin="round"/>
+            </group>
+        </group>
+    </group>
+</vector>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ic_logo_weather_changes: white glyph so it can be tinted. Lines are 2 dp thick and the glyph's longest side is 20 dp, same as the other logos. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="23.344"
+    android:viewportHeight="23.344">
+    <group android:translateX="-0.328" android:translateY="-0.539">
+        <path
+            android:pathData="M 12.351 21.642 q -.293 -.28 -.293 -.694 q 0 -.184 .064 -.363 q .065 -.18 .213 -.321 l .45 -.4 q .13 -.106 .273 -.106 t .273 .106 l .45 .4 q .148 .142 .212 .32 q .065 .18 .065 .364 q 0 .414 -.294 .694 t -.706 .281 t -.707 -.28 m -3.057 -1.456 q -.148 -.148 -.148 -.314 q 0 -.165 .148 -.313 l 1.9 -1.9 q .148 -.148 .314 -.148 q .165 0 .313 .148 t .148 .313 t -.148 .314 l -1.9 1.9 q -.148 .148 -.313 .148 q -.166 0 -.314 -.148 m 6.471 -1.46 l -.511 -.511 q -.131 -.131 -.131 -.293 t .13 -.292 l .513 -.512 q .13 -.13 .292 -.13 t .292 .13 l .511 .512 q .131 .13 .131 .292 t -.13 .293 l -.512 .511 q -.13 .13 -.292 .13 t -.292 -.13 m -7.904 -.512 l -.512 .512 q -.13 .13 -.292 .13 t -.292 -.13 l -.512 -.512 q -.131 -.13 -.131 -.292 t .13 -.292 l .513 -.512 q .13 -.13 .292 -.13 t .292 .13 l .512 .512 q .13 .13 .13 .292 t -.13 .293 M 7.5 15.5 q -2.083 0 -3.541 -1.459 Q 2.5 12.583 2.5 10.5 q 0 -1.94 1.308 -3.356 t 3.275 -1.633 q .742 -1.405 2.033 -2.208 Q 10.408 2.5 12 2.5 q 2.154 0 3.701 1.428 t 1.801 3.559 q 1.84 .111 2.92 1.28 Q 21.5 9.937 21.5 11.5 q 0 1.664 -1.168 2.832 T 17.5 15.5 z"
+            android:fillColor="#FFFFFF"/>
+    </group>
+</vector>

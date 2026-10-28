@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Home tab icon (outlined house). White so Compose can tint it with the tab colour (ColorFilter.tint). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:pathData="M 2 12.2039 C 2 9.91549 2 8.77128 2.5192 7.82274 C 3.0384 6.87421 3.98695 6.28551 5.88403 5.10813 L 7.88403 3.86687 C 9.88939 2.62229 10.8921 2 12 2 C 13.1079 2 14.1106 2.62229 16.116 3.86687 L 18.116 5.10812 C 20.0131 6.28551 20.9616 6.87421 21.4808 7.82274 C 22 8.77128 22 9.91549 22 12.2039 V 13.725 C 22 17.6258 22 19.5763 20.8284 20.7881 C 19.6569 22 17.7712 22 14 22 H 10 C 6.22876 22 4.34315 22 3.17157 20.7881 C 2 19.5763 2 17.6258 2 13.725 V 12.2039 Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"/>
+    <path
+        android:pathData="M 15 18 H 9"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"/>
+</vector>

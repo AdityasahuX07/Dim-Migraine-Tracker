@@ -1,0 +1,47 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+  <uses-permission android:name="android.permission.INTERNET"/>
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+  <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+  <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+  <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE"/>
+  <!-- Health Connect: read-only. Requested at runtime, and only when the user taps Connect in Settings. -->
+  <uses-permission android:name="android.permission.health.READ_SLEEP"/>
+  <uses-permission android:name="android.permission.health.READ_STEPS"/>
+  <uses-permission android:name="android.permission.health.READ_HEART_RATE"/>
+  <uses-permission android:name="android.permission.health.READ_RESTING_HEART_RATE"/>
+  <uses-permission android:name="android.permission.health.READ_HEART_RATE_VARIABILITY"/>
+  <uses-permission android:name="android.permission.health.READ_HEALTH_DATA_HISTORY"/>
+  <queries><package android:name="com.google.android.apps.healthdata"/></queries>
+  <application android:name=".DimApp" android:label="Dim" android:icon="@mipmap/ic_launcher" android:allowBackup="false"
+      android:theme="@android:style/Theme.DeviceDefault.NoActionBar">
+    <activity android:name=".MainActivity" android:exported="true">
+      <intent-filter><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.LAUNCHER"/></intent-filter>
+      <meta-data android:name="android.app.shortcuts" android:resource="@xml/shortcuts"/>
+    </activity>
+    <service android:name=".LogTileService" android:exported="true" android:label="Log Migraine"
+        android:icon="@android:drawable/ic_menu_add" android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
+      <intent-filter><action android:name="android.service.quicksettings.action.QS_TILE"/></intent-filter>
+    </service>
+    <service android:name=".SessionService" android:exported="false" android:foregroundServiceType="specialUse">
+      <property android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE"
+          android:value="Persistent notification showing the running migraine episode with an End Session action"/>
+    </service>
+    <receiver android:name=".EndSessionReceiver" android:exported="false"/>
+    <!-- Doctor-Ready Report: shares the temporary PDF in cache/reports/ with the app the user picks in the share sheet. -->
+    <provider android:name="androidx.core.content.FileProvider" android:authorities="${applicationId}.reports"
+        android:exported="false" android:grantUriPermissions="true">
+      <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/report_file_paths"/>
+    </provider>
+    <!-- Health Connect shows this when the user taps "privacy policy" on its permission screen. -->
+    <activity android:name=".HealthRationaleActivity" android:exported="true">
+      <intent-filter><action android:name="androidx.health.ACTION_SHOW_PERMISSIONS_RATIONALE"/></intent-filter>
+    </activity>
+    <activity-alias android:name="ViewPermissionUsageActivity" android:exported="true"
+        android:targetActivity=".HealthRationaleActivity" android:permission="android.permission.START_VIEW_PERMISSION_USAGE">
+      <intent-filter>
+        <action android:name="android.intent.action.VIEW_PERMISSION_USAGE"/>
+        <category android:name="android.intent.category.HEALTH_PERMISSIONS"/>
+      </intent-filter>
+    </activity-alias>
+  </application>
+</manifest>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme for the system date/time pickers opened from the episode screen. Extends the same dark
+         DeviceDefault dialog the app used before, so layout and behaviour are unchanged; only colour and shape differ. -->
+    <style name="DimDialog" parent="@android:style/Theme.DeviceDefault.Dialog.Alert">
+        <item name="android:windowBackground">@drawable/dim_dialog_bg</item>
+        <item name="android:dialogCornerRadius">28dp</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:colorAccent">#FF9B84E0</item>
+        <item name="android:colorControlActivated">#FF9B84E0</item>
+        <item name="android:colorControlHighlight">#33B8A8F2</item>
+        <item name="android:textColorPrimary">#FFE6E1EF</item>
+        <item name="android:textColorSecondary">#FF9A92A8</item>
+    </style>
+</resources>

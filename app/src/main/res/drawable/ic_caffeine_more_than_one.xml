@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ic_caffeine_more_than_one.xml: Caffeine today: more than one cup. White glyph so it can be tinted (ColorFilter.tint). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+    <group android:translateX="64" android:translateY="64">
+        <group android:translateX="0" android:translateY="7">
+            <group android:translateX="-24" android:translateY="0">
+                <path android:pathData="M-20 -12 L20 -12 L20 14 Q20 26 8 26 L-8 26 Q-20 26 -20 14 Z"
+                    android:fillColor="#FFFFFF"
+                    android:strokeColor="#FFFFFF"
+                    android:strokeWidth="3"
+                    android:strokeLineCap="round"
+                    android:strokeLineJoin="round"/>
+                <path android:pathData="M-20 -4 H-26 Q-34 -4 -34 6 Q-34 16 -26 16 H-20"
+                    android:strokeColor="#FFFFFF"
+                    android:strokeWidth="3"
+                    android:strokeLineCap="round"
+                    android:strokeLineJoin="round"/>
+                <path android:pathData="M0 -19 Q-5 -25 0 -30 Q5 -35 0 -40"
+                    android:strokeColor="#FFFFFF"
+                    android:strokeWidth="3"
+                    android:strokeLineCap="round"
+                    android:strokeLineJoin="round"/>
+            </group>
+            <group android:translateX="24" android:translateY="0">
+                <path android:pathData="M-20 -12 L20 -12 L20 14 Q20 26 8 26 L-8 26 Q-20 26 -20 14 Z"
+                    android:fillColor="#FFFFFF"
+                    android:strokeColor="#FFFFFF"
+                    android:strokeWidth="3"
+                    android:strokeLineCap="round"
+                    android:strokeLineJoin="round"/>
+                <path android:pathData="M20 -4 H26 Q34 -4 34 6 Q34 16 26 16 H20"
+                    android:strokeColor="#FFFFFF"
+                    android:strokeWidth="3"
+                    android:strokeLineCap="round"
+                    android:strokeLineJoin="round"/>
+                <path android:pathData="M0 -19 Q-5 -25 0 -30 Q5 -35 0 -40"
+                    android:strokeColor="#FFFFFF"
+                    android:strokeWidth="3"
+                    android:strokeLineCap="round"
+                    android:strokeLineJoin="round"/>
+            </group>
+        </group>
+    </group>
+</vector>

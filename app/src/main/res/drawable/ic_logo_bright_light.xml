@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ic_logo_bright_light: white glyph so it can be tinted. Lines are 2 dp thick and the glyph's longest side is 20 dp, same as the other logos. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24.447"
+    android:viewportHeight="24.447">
+    <group android:translateX="0.223" android:translateY="0.223">
+        <path
+            android:pathData="M 12.005 14.771 V 9.219 a 2.78 2.78 0 0 1 2.776 2.776 a 2.78 2.78 0 0 1 -2.776 2.776 m 0 -6.941 a 4.164 4.164 0 0 1 4.165 4.165 a 4.164 4.164 0 0 1 -4.165 4.164 a 4.164 4.164 0 0 1 -4.164 -4.164 c 0 -1.316 .622 -2.475 1.575 -3.238 a 4.12 4.12 0 0 1 2.589 -.927 m 0 9.995 c .458 0 .833 .375 .833 .833 v 2.509 c 0 .457 -.375 .833 -.833 .833 s -.832 -.376 -.832 -.833 v -2.509 c 0 -.458 .374 -.833 .832 -.833 m 0 -11.661 a .834 .834 0 0 1 -.832 -.832 V 2.833 c 0 -.458 .374 -.833 .832 -.833 s .833 .375 .833 .833 v 2.499 a .835 .835 0 0 1 -.833 .832 m -5.83 5.831 a .835 .835 0 0 1 -.833 .832 H 2.833 c -.457 0 -.833 -.374 -.833 -.832 s .376 -.833 .833 -.833 h 2.509 c .458 0 .833 .375 .833 .833 m 14.992 -.833 c .458 0 .833 .375 .833 .833 s -.375 .832 -.833 .832 h -2.499 c -.458 0 -.832 -.374 -.832 -.832 s .374 -.833 .832 -.833 Z M 6.733 16.089 a .835 .835 0 0 1 1.178 0 a .835 .835 0 0 1 0 1.178 l -1.774 1.774 a .835 .835 0 0 1 -1.179 0 a .835 .835 0 0 1 0 -1.178 Z m 10.519 -8.221 a .835 .835 0 0 1 -1.178 0 a .835 .835 0 0 1 0 -1.178 l 1.766 -1.767 a .833 .833 0 0 1 1.178 1.178 Z m -10.531 .05 L 4.947 6.142 a .835 .835 0 0 1 0 -1.178 a .835 .835 0 0 1 1.177 0 L 7.898 6.74 a .835 .835 0 0 1 0 1.177 a .835 .835 0 0 1 -1.177 0 m 10.577 8.162 l 1.766 1.767 a .835 .835 0 0 1 0 1.177 a .835 .835 0 0 1 -1.177 0 l -1.767 -1.765 a .833 .833 0 0 1 1.178 -1.179"
+            android:fillColor="#FFFFFF"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="0.357"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="round"/>
+    </group>
+</vector>

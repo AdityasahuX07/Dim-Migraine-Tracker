@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ic_logo_noise_exposure: white glyph so it can be tinted. Lines are 2 dp thick and the glyph's longest side is 20 dp, same as the other logos. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24.021"
+    android:viewportHeight="24.021">
+    <group android:translateX="0.01" android:translateY="0.01">
+        <path
+            android:pathData="M 12 7 H 12.01 M 12.5 7 C 12.5 7.27614 12.2761 7.5 12 7.5 C 11.7239 7.5 11.5 7.27614 11.5 7 C 11.5 6.72386 11.7239 6.5 12 6.5 C 12.2761 6.5 12.5 6.72386 12.5 7 Z M 15 14 C 15 15.6569 13.6569 17 12 17 C 10.3431 17 9 15.6569 9 14 C 9 12.3431 10.3431 11 12 11 C 13.6569 11 15 12.3431 15 14 Z M 8.2 21 H 15.8 C 16.9201 21 17.4802 21 17.908 20.782 C 18.2843 20.5903 18.5903 20.2843 18.782 19.908 C 19 19.4802 19 18.9201 19 17.8 V 6.2 C 19 5.0799 19 4.51984 18.782 4.09202 C 18.5903 3.71569 18.2843 3.40973 17.908 3.21799 C 17.4802 3 16.9201 3 15.8 3 H 8.2 C 7.0799 3 6.51984 3 6.09202 3.21799 C 5.71569 3.40973 5.40973 3.71569 5.21799 4.09202 C 5 4.51984 5 5.07989 5 6.2 V 17.8 C 5 18.9201 5 19.4802 5.21799 19.908 C 5.40973 20.2843 5.71569 20.5903 6.09202 20.782 C 6.51984 21 7.07989 21 8.2 21 Z"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="2.002"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"/>
+    </group>
+</vector>

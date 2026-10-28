@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Where it started: Travelling. White glyph so it can be tinted (ColorFilter.tint); glyph fills about 20 of 24 dp, like the other ic_logo_* drawables. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:pathData="M9.74,21.99l-2.71,-5.04l-5.03,-2.71l1.94,-1.91l3.97,0.68l2.79,-2.79l-8.67,-3.69l2.3,-2.35l10.53,1.86l3.39,-3.4q0.63,-0.63 1.56,-0.63q0.93,0 1.56,0.63q0.63,0.63 0.63,1.55q0,0.91 -0.63,1.54l-3.42,3.42l1.86,10.51l-2.32,2.33l-3.73,-8.68l-2.79,2.79l0.72,3.94z"
+        android:fillColor="#FFFFFF"/>
+</vector>

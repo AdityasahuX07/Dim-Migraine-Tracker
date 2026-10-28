@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ic_meal_over_6h.xml: Last meal: over 6 hours. White glyph so it can be tinted (ColorFilter.tint). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+    <group android:translateX="64" android:translateY="64">
+        <group android:scaleX="1.1" android:scaleY="1.1">
+            <path android:pathData="M-28,0a28,28 0 1,0 56,0a28,28 0 1,0 -56,0z"
+                android:strokeColor="#FFFFFF"
+                android:strokeWidth="3"/>
+            <path android:pathData="M-19,0a19,19 0 1,0 38,0a19,19 0 1,0 -38,0z"
+                android:strokeColor="#FFFFFF"
+                android:strokeWidth="2"/>
+            <path android:pathData="M0 0 L0 -14 A14 14 0 1 1 -12.12 -7 Z"
+                android:fillColor="#FFFFFF"
+                android:strokeColor="#FFFFFF"
+                android:strokeWidth="1.5"
+                android:strokeLineJoin="round"/>
+            <group android:translateX="-43" android:translateY="0">
+                <group android:scaleX="2.2" android:scaleY="2.2">
+                    <group android:translateX="-9" android:translateY="-13">
+                        <path android:pathData="M6 0S5 7 5 8s2.25 3 2.25 3L7 24.344C7 25.448 7.896 26 9 26s2-.552 2-1.656L10.75 11S13 8.958 13 8s-1-8-1-8h-1v6.5a.5.5 0 0 1-1 0c0-.093-.344-6.5-.344-6.5H8.344S8 6.407 8 6.5a.5.5 0 0 1-1 0V0z"
+                            android:fillColor="#FFFFFF"/>
+                    </group>
+                </group>
+            </group>
+            <group android:translateX="43" android:translateY="0">
+                <group android:scaleX="2.2" android:scaleY="2.2">
+                    <group android:translateX="-18.5" android:translateY="-13">
+                        <path android:pathData="M16.719.063C16.13.204 16 .835 16 1.53v22.813c0 1.104.896 1.656 2 1.656s1.969-.553 1.969-1.656c0-5.087-1-7.799-1-10.344c0-1.148 2.031-2.626 2.031-7.969c0-3.268-2.896-5.968-4-5.968c-.104 0-.197-.02-.281 0z"
+                            android:fillColor="#FFFFFF"/>
+                    </group>
+                </group>
+            </group>
+        </group>
+    </group>
+</vector>

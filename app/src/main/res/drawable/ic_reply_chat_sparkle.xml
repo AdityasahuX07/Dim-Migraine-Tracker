@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="50"
+    android:viewportHeight="50">
+    <group
+        android:translateX="-22.5"
+        android:translateY="-14.5">
+        <!-- Chat bubble: open at top-right, wedge tail at bottom-left -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M28.6,18.5 H47 V23 H29 V52 L31.2,50 H65 V41 H69.4 V50.5 A4,4 0 0,1 65.4,54.5 H33 L24.6,62.8 V22.5 A4,4 0 0,1 28.6,18.5 Z" />
+        <!-- Four-point sparkle with concave sides -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M61,16.3 Q63,24.4 70.5,26.4 Q63,28.4 61,36.5 Q59,28.4 51.5,26.4 Q59,24.4 61,16.3 Z" />
+    </group>
+</vector>

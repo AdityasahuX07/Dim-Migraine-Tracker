@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ic_hydration_glass.xml: Hydration: glass. White glyph so it can be tinted (ColorFilter.tint). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+    <group android:translateX="64" android:translateY="64">
+        <group android:translateX="0" android:translateY="31">
+            <group android:scaleX="1.1" android:scaleY="1.1">
+                <path android:pathData="M-22 -56 L-18 -8 Q-17.5 0 -10 0 L10 0 Q17.5 0 18 -8 L22 -56"
+                    android:strokeColor="#FFFFFF"
+                    android:strokeWidth="4"
+                    android:strokeLineCap="round"
+                    android:strokeLineJoin="round"/>
+                <path android:pathData="M-14 -26 L14 -26 L12.6 -9 Q12.4 -5.5 9 -5.5 L-9 -5.5 Q-12.4 -5.5 -12.6 -9 Z"
+                    android:fillColor="#FFFFFF"/>
+            </group>
+        </group>
+    </group>
+</vector>

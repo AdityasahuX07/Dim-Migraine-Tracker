@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ic_logo_nausea: white glyph so it can be tinted. Lines are 2 dp thick and the glyph's longest side is 20 dp, same as the other logos. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="30"
+    android:viewportHeight="30">
+    <group android:translateX="3" android:translateY="3">
+        <path
+            android:pathData="m 17.222 3.832 l 2.927 -1.947 v 1.947 l 2.927 -1.947 m -5.719 15.22 l 3.231 1.383 l -1.628 1.066 l 3.231 1.383 m -5.105 -9.755 l 3.354 -1.051 L 19.896 12 l 3.354 -1.052 M 4.834 12 A 4.087 4.087 0 0 1 .769 7.515 A 4.2 4.2 0 0 1 5.01 3.832 h .845 a 1.02 1.02 0 0 0 1.021 -1.021 V .769 M 4.834 12 a 4.087 4.087 0 0 0 -4.065 4.485 a 4.2 4.2 0 0 0 4.241 3.683 h .845 a 1.02 1.02 0 0 1 1.021 1.021 v 2.042 m 5.105 0 v -3.063 A 4.083 4.083 0 0 0 7.9 16.084 h 2.039 a 4.084 4.084 0 0 0 0 -8.168 H 7.9 a 4.083 4.083 0 0 0 4.084 -4.084 V .769 M 4.834 12 h 2.042 m 1.021 -4.084 H 6.876 m 1.021 8.168 H 6.876"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="2.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"/>
+    </group>
+</vector>

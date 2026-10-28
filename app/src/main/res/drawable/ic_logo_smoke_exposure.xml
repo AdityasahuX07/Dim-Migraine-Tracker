@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ic_logo_smoke_exposure: white glyph so it can be tinted. Lines are 2 dp thick and the glyph's longest side is 20 dp, same as the other logos. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="55.937"
+    android:viewportHeight="55.937">
+    <group android:translateX="3.968" android:translateY="3.968">
+        <path
+            android:pathData="M 31.3 1.115 a 2.25 2.25 0 0 1 1.427 2.844 c -.959 2.89 -.556 5.875 1.98 8.825 c 3.545 4.125 4.303 8.758 2.837 13.175 a 2.25 2.25 0 1 1 -4.27 -1.417 c .958 -2.889 .555 -5.875 -1.98 -8.825 c -3.546 -4.125 -4.304 -8.757 -2.838 -13.175 A 2.25 2.25 0 0 1 31.3 1.115 m 8 0 a 2.25 2.25 0 0 1 1.427 2.844 c -.959 2.89 -.556 5.875 1.98 8.825 c 3.545 4.125 4.303 8.758 2.837 13.175 a 2.25 2.25 0 1 1 -4.27 -1.417 c .958 -2.889 .555 -5.875 -1.98 -8.825 c -3.546 -4.125 -4.304 -8.757 -2.838 -13.175 A 2.25 2.25 0 0 1 39.3 1.115 M 7.535 33.201 C 10.664 33.108 16.028 33 24 33 c 3.9 0 7.256 .026 10.064 .063 A 177 177 0 0 0 34 38 c 0 1.92 .026 3.56 .064 4.937 C 31.255 42.974 27.901 43 24 43 c -7.972 0 -13.336 -.108 -16.465 -.201 c -1.44 -.043 -2.248 -.845 -2.36 -1.753 A 25 25 0 0 1 5 38 c 0 -1.22 .073 -2.23 .174 -3.046 c .113 -.908 .92 -1.71 2.36 -1.753 M 24 29 c -8.008 0 -13.412 .109 -16.584 .203 c -2.864 .084 -5.793 1.893 -6.211 5.258 C 1.082 35.446 1 36.62 1 38 s .082 2.554 .205 3.539 c .418 3.365 3.347 5.174 6.211 5.258 C 10.588 46.891 15.992 47 24 47 c 8.057 0 13.807 -.11 17.248 -.204 C 44.484 46.707 47 44.053 47 40.854 v -5.709 c 0 -3.199 -2.516 -5.852 -5.752 -5.94 C 37.807 29.11 32.058 29 24 29"
+            android:fillColor="#FFFFFF"
+            android:fillType="evenOdd"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="0.583"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="round"/>
+    </group>
+</vector>

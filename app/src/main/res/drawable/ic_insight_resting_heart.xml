@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Insights: resting heart rate. White glyph so it can be tinted (ColorFilter.tint); glyph fills about 20 of 24 dp, like the other ic_logo_* drawables. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:pathData="M17,4c-3.2,0 -5,2.67 -5,4c0,-1.33 -1.8,-4 -5,-4c-3.2,0 -4,2.67 -4,4c0,7 9,12 9,12c0,0 9,-5 9,-12c0,-1.33 -0.8,-4 -4,-4"
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+</vector>

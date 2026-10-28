@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ic_logo_last_meal: white glyph so it can be tinted. Lines are 2 dp thick and the glyph's longest side is 20 dp, same as the other logos. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="31.2"
+    android:viewportHeight="31.2">
+    <group android:translateX="2.6" android:translateY="2.6">
+        <path
+            android:pathData="M 6 0 S 5 7 5 8 s 2.25 3 2.25 3 L 7 24.344 C 7 25.448 7.896 26 9 26 s 2 -.552 2 -1.656 L 10.75 11 S 13 8.958 13 8 s -1 -8 -1 -8 h -1 v 6.5 a .5 .5 0 0 1 -1 0 c 0 -.093 -.344 -6.5 -.344 -6.5 H 8.344 S 8 6.407 8 6.5 a .5 .5 0 0 1 -1 0 V 0 z m 10.719 .063 C 16.13 .204 16 .835 16 1.53 v 22.813 c 0 1.104 .896 1.656 2 1.656 s 1.969 -.553 1.969 -1.656 c 0 -5.087 -1 -7.799 -1 -10.344 c 0 -1.148 2.031 -2.626 2.031 -7.969 c 0 -3.268 -2.896 -5.968 -4 -5.968 c -.104 0 -.197 -.02 -.281 0 z"
+            android:fillColor="#FFFFFF"/>
+    </group>
+</vector>

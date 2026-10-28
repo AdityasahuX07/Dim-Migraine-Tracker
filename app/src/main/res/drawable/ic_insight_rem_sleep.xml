@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Insights, attack vs other days: avg REM sleep (bed under a zigzag). White glyph so it can be tinted (ColorFilter.tint); converted from the supplied 48x48 SVG (stroke 4, round caps and joins). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:pathData="M4,10L9,4L14,14L19,4L24,14L29,4L34,14L39,4L44,10"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <group android:translateY="8">
+        <path
+            android:pathData="M4,12v24m40,-7v7m0,-7H4"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="4"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+        <path
+            android:pathData="M22,16v13h22V19a3,3 0 0,0 -3,-3z"
+            android:fillColor="#FFFFFF"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="4"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+        <path
+            android:pathData="M13,20m-3,0a3,3 0 1,1 6,0a3,3 0 1,1 -6,0"
+            android:fillColor="#FFFFFF"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="4"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+    </group>
+</vector>
