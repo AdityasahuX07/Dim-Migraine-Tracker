@@ -9,7 +9,11 @@
   <a href="https://buymeacoffee.com/adityasahu"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
 </p>
 
-A modern, privacy-focused Android application built with Jetpack Compose for tracking migraines and headaches. Dim helps users log episodes, monitor pain locations, identify triggers, correlate with health metrics, and generate doctor-ready reports.
+<p align="center">
+  <b>Dim</b> is a thoughtful, privacy-first companion crafted to help you understand, track, and manage migraines and chronic headaches.
+</p>
+
+Built with a **beautiful, modern, and minimal dark UI**, Dim is purposefully designed to be gentle on photosensitive eyes during painful flare-ups. It makes logging migraine episodes **effortless and quick**—record an attack in just a few gentle taps, track ongoing sessions in real-time, visually map head and back pain, and note symptoms, medications, and triggers. By correlating passive health signals like sleep and heart rate, Dim helps uncover hidden patterns behind your headaches and exports clean, comprehensive reports ready for your doctor—all while keeping your personal health data completely private on your device.
 
 ## Features
 
