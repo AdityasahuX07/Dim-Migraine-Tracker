@@ -1,8 +1,12 @@
-# Dim
+<p align="center">
+  <img src="assets/banner.png" alt="Dim" width="100%" />
+</p>
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-2.2.10-purple.svg)](https://kotlinlang.org)
-[![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-adityasahu-yellow.svg?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/adityasahu)
+<p align="center">
+  <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-2.2.10-purple.svg" alt="Kotlin" /></a>
+  <a href="https://developer.android.com"><img src="https://img.shields.io/badge/Platform-Android-green.svg" alt="Android" /></a>
+  <a href="https://www.buymeacoffee.com/adityasahu"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-adityasahu-yellow.svg?style=flat&logo=buy-me-a-coffee" alt="Buy Me A Coffee" /></a>
+</p>
 
 A modern, privacy-focused Android application built with Jetpack Compose for tracking migraines and headaches. Dim helps users log episodes, monitor pain locations, identify triggers, correlate with health metrics, and generate doctor-ready reports.
 
@@ -15,6 +19,28 @@ A modern, privacy-focused Android application built with Jetpack Compose for tra
 - **AI Insights**: Intelligent pattern detection and insights powered by Gemini.
 - **Doctor Reports**: Export detailed episode summaries and clinical PDF reports to share with healthcare providers.
 - **Local-First & Private**: Data stays on your device with encrypted backup/restore support.
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/Screenshot_20261028_202024.png" width="31%" alt="Home & AI Insights" />
+  <img src="screenshots/Screenshot_20261028_202031.png" width="31%" alt="Episode History" />
+  <img src="screenshots/Screenshot_20261028_202038.png" width="31%" alt="Frequency & Insights" />
+</p>
+<p align="center">
+  <img src="screenshots/Screenshot_20261028_202046.png" width="31%" alt="30-Day Health Metrics" />
+  <img src="screenshots/Screenshot_20261028_202051.png" width="31%" alt="Sleep & Health Connect" />
+  <img src="screenshots/Screenshot_20261028_202057.png" width="31%" alt="Attack Patterns & Heatmap" />
+</p>
+<p align="center">
+  <img src="screenshots/Screenshot_20261028_202102.png" width="31%" alt="Calendar View" />
+  <img src="screenshots/Screenshot_20261028_202109.png" width="31%" alt="Symptom Analytics" />
+  <img src="screenshots/Screenshot_20261028_202751.png" width="31%" alt="Episode Details & Severity" />
+</p>
+<p align="center">
+  <img src="screenshots/Screenshot_20261028_202757.png" width="31%" alt="Biometrics & Triggers" />
+  <img src="screenshots/Screenshot_20261028_202804.png" width="31%" alt="Symptom & Medication Profiling" />
+</p>
 
 ## Tech Stack
 
